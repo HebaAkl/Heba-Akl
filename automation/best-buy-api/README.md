@@ -1,7 +1,7 @@
 # RestAssures Framework
 ## Installation Steps 
 
-git clone <repo>
+git clone git@github.com:HebaAkl/best-buy-api.git
 
 ## prerequisites
 Java 11
