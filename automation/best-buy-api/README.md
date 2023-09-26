@@ -1,4 +1,4 @@
-# SeleniumFramework
+# RestAssures Framework
 ## Installation Steps 
 
 git clone <repo>
