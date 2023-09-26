@@ -1,0 +1,9 @@
+driver_manager/DriverManagerFactory$DriverType.class
+driver_manager/DriverManager.class
+models/User.class
+pages/registration/RegistrationPage.class
+pages/BasePage.class
+pages/login/LoginPage.class
+driver_manager/browsers/ChromeDriverManager.class
+driver_manager/DriverManagerFactory.class
+driver_manager/DriverManagerFactory$1.class

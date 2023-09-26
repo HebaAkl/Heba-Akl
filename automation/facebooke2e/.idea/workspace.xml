@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f9eb303-6d5e-4df5-b934-4d61689c4985" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Vn98x6dApTQ6QYe0IphpVd8r9H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/abdelrahman/Desktop/project/best-buy-api"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests.registration" />
+      <recent name="driver_manager" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.FacebookLoginTest.testLoginWithInvalidEmailAndValidPassword">
+    <configuration name="FacebookLoginTest.testLoginWithInvalidEmailAndValidPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="facebook-e2e" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.login" />
+      <option name="MAIN_CLASS_NAME" value="tests.login.FacebookLoginTest" />
+      <option name="METHOD_NAME" value="testLoginWithInvalidEmailAndValidPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FacebookRegistrationTest.testEmptyEmailValidationAppear" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.registration" />
+      <option name="MAIN_CLASS_NAME" value="tests.registration.FacebookRegistrationTest" />
+      <option name="METHOD_NAME" value="testEmptyEmailValidationAppear" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FacebookRegistrationTest.testEmptyFirstNameValidationAppear" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.registration" />
+      <option name="MAIN_CLASS_NAME" value="tests.registration.FacebookRegistrationTest" />
+      <option name="METHOD_NAME" value="testEmptyFirstNameValidationAppear" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FacebookRegistrationTest.testEmptyPasswordValidationAppear" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.registration" />
+      <option name="MAIN_CLASS_NAME" value="tests.registration.FacebookRegistrationTest" />
+      <option name="METHOD_NAME" value="testEmptyPasswordValidationAppear" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FacebookRegistrationTest.testRegistrationWithCustomGender" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.registration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.registration" />
+      <option name="MAIN_CLASS_NAME" value="tests.registration.FacebookRegistrationTest" />
+      <option name="METHOD_NAME" value="testRegistrationWithCustomGender" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FacebookLoginTest.testLoginWithInvalidEmailAndValidPassword" />
+        <item itemvalue="TestNG.FacebookRegistrationTest.testRegistrationWithCustomGender" />
+        <item itemvalue="TestNG.FacebookRegistrationTest.testEmptyEmailValidationAppear" />
+        <item itemvalue="TestNG.FacebookRegistrationTest.testEmptyPasswordValidationAppear" />
+        <item itemvalue="TestNG.FacebookRegistrationTest.testEmptyFirstNameValidationAppear" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f9eb303-6d5e-4df5-b934-4d61689c4985" name="Changes" comment="" />
+      <created>1695460822343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695460822343</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

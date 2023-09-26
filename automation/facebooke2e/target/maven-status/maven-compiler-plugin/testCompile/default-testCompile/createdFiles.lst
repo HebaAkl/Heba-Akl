@@ -1,0 +1,7 @@
+tests/registration/FacebookRegistrationTest.class
+data/GetTestData.class
+tests/login/FacebookLoginTest.class
+tests/BaseTest.class
+utilities/Helper.class
+tests/login/FacebookLoginAssertion.class
+data/JsonDataReader.class
