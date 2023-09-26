@@ -1,7 +1,7 @@
 # SeleniumFramework
 ## Installation Steps 
 
-git clone <git@github.com:HebaAkl/facebook-e2e.git>
+git clone git@github.com:HebaAkl/facebook-e2e.git
 
 ## prerequisites
 Java 11
